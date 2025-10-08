@@ -8,7 +8,7 @@ window_height = 700
 window = pygame.display.set_mode((window_width, window_height))
 
 #einfügen von character
-player = pygame.image.load('astronaut.png')
+player = pygame.image.load('Exolon_Ast_Right.png')
 
 # Position von Spieler festlegen
 x = 32
